@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\kelimeBolme\kelimeBolme\bin\Debug\kelimeBolme.exe.config
+C:\Users\LENOVO\source\repos\kelimeBolme\kelimeBolme\bin\Debug\kelimeBolme.exe
+C:\Users\LENOVO\source\repos\kelimeBolme\kelimeBolme\bin\Debug\kelimeBolme.pdb
+C:\Users\LENOVO\source\repos\kelimeBolme\kelimeBolme\obj\Debug\kelimeBolme.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\kelimeBolme\kelimeBolme\obj\Debug\kelimeBolme.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\kelimeBolme\kelimeBolme\obj\Debug\kelimeBolme.exe
+C:\Users\LENOVO\source\repos\kelimeBolme\kelimeBolme\obj\Debug\kelimeBolme.pdb
+P:\kelimeBolme\kelimeBolme\bin\Debug\kelimeBolme.exe.config
+P:\kelimeBolme\kelimeBolme\bin\Debug\kelimeBolme.exe
+P:\kelimeBolme\kelimeBolme\bin\Debug\kelimeBolme.pdb
+P:\kelimeBolme\kelimeBolme\obj\Debug\kelimeBolme.csproj.AssemblyReference.cache
+P:\kelimeBolme\kelimeBolme\obj\Debug\kelimeBolme.csproj.SuggestedBindingRedirects.cache
+P:\kelimeBolme\kelimeBolme\obj\Debug\kelimeBolme.csproj.CoreCompileInputs.cache
+P:\kelimeBolme\kelimeBolme\obj\Debug\kelimeBolme.exe
+P:\kelimeBolme\kelimeBolme\obj\Debug\kelimeBolme.pdb
